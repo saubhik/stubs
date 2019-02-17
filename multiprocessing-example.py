@@ -1,3 +1,5 @@
+# Inspiration: https://stackoverflow.com/questions/15704010/write-data-to-hdf-file-using-multiprocessing
+
 import multiprocessing as mp
 import threading
 import warnings
